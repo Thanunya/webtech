@@ -11,7 +11,7 @@
 <p>   Hello!!!!   </p>
 
 <a href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">Visit DATA SCI รายละเอียดหลักสูตร</a>
-<img src="https://mqdc.com/forestias/images/home/community/community-1.webp" width="1676" height="943">
+<img src="https://mqdc.com/forestias/images/home/community/community-1.webp" alt= "Nature" width="600" height="200">
 
   </body>
 </html>  
